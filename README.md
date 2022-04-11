@@ -1,4 +1,4 @@
-# Royeto7
+# Royet07
 Read about me.
 
  •👋 Hi, I’m Royet Camay also known as "Royeto7" in github.
