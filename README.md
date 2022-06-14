@@ -8,7 +8,7 @@ Read about me.
  •📫 You can reach me through:
      📍facebook.com/royet.camay.7
      📍royetcamay.epizy.com
-     📍royetcamay@gmail.com
+     📍royetcamay@gmail.com 
 <!---
 camzoniac/camzoniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
