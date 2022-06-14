@@ -6,8 +6,8 @@ Read about me.
 - 🌱 I’m currently learning Android Development and C# .Net
 - 💞️ I’m looking to collaborate on other competitive projects.
 - 📫 You can reach me through:
-     - 📍facebook.com/royet.camay.7
-     - 📍royetcamay.epizy.com
+     - 📍https://www.facebook.com/royet.camay.7
+     - 📍https://www.royetcamay.epizy.com
      - 📍royetcamay@gmail.com 
 <!---
 camzoniac/camzoniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
