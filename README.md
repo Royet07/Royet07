@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Royet07)](https://github.com/Royet07/github-profile-trophy)
+
+![Royet07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royet07&show_icons=true&theme=merko)
