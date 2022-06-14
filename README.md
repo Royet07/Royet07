@@ -2,8 +2,7 @@
 Read about me.
 
 - 👋 Hi, I’m Royet Camay also known as "Royet07" in github.
-- 👀 I’m interested in collaborative coding.![download](https://user-images.githubusercontent.com/61675140/173705628-aa973d07-ff2d-4b69-bd8c-ff0f66dcf06c.png)
-
+- 👀 I’m interested in collaborative coding.
 - 🌱 I’m currently learning Android Development and C# .Net
 - 💞️ I’m looking to collaborate on other competitive projects.
 - 📫 You can reach me through:
