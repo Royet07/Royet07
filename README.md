@@ -1,11 +1,11 @@
 # Royet07
 Read about me.
 
- •👋 Hi, I’m Royet Camay also known as "Royet07" in github.
- •👀 I’m interested in collaborative coding.
- •🌱 I’m currently learning Android Development and C# .Net
- •💞️ I’m looking to collaborate on other competitive projects.
- •📫 You can reach me through:
+- •👋 Hi, I’m Royet Camay also known as "Royet07" in github.
+- •👀 I’m interested in collaborative coding.
+- •🌱 I’m currently learning Android Development and C# .Net
+- •💞️ I’m looking to collaborate on other competitive projects.
+- •📫 You can reach me through:
      📍facebook.com/royet.camay.7
      📍royetcamay.epizy.com
      📍royetcamay@gmail.com 
