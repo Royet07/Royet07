@@ -6,7 +6,7 @@ Read about me.
 - 🌱 I’m currently learning Android Development and C# .Net
 - 💞️ I’m looking to collaborate on other competitive projects.
 - 📫 You can reach me through:
-     -📍facebook.com/royet.camay.7
+     - 📍facebook.com/royet.camay.7
      📍royetcamay.epizy.com
      📍royetcamay@gmail.com 
 <!---
