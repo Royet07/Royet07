@@ -12,8 +12,6 @@ About Me.
      - https://www.facebook.com/royet.camay.7
      - https://www.royetcamay.epizy.com
      - royetcamay@gmail.com 
-#
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 
 #
 ![Royet07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royet07&show_icons=true&theme=merko) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Royet07)](https://git.io/streak-stats)
